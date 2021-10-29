@@ -1,4 +1,4 @@
-## GBADoom
+## NDS-GBADoom An attempt at porting DoomHack's excellent GBA port of Doom to the NDS for practice. Still a WIP.
 
 A port of prBoom to the GBA.
 
