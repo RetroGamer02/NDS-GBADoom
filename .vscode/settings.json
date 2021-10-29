@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "global_data.h": "c",
+        "v_video.h": "c",
+        "m_random.h": "c",
+        "soundbank.h": "c"
+    }
+}
